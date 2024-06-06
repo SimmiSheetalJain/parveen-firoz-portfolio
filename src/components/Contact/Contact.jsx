@@ -30,9 +30,9 @@ const Contact = () => {
               >
                 <FaInstagramSquare className="hover:text-[#03fcc6]" />
               </a>
-              <a href="https://www.instagram.com/rooz_fairy/" target="_blank">
+              {/* <a href="https://www.instagram.com/rooz_fairy/" target="_blank">
                 <FaTwitterSquare className="hover:text-[#03fcc6]" />
-              </a>
+              </a> */}
               <a href="https://www.instagram.com/rooz_fairy/" target="_blank">
                 <FaFacebookSquare className="hover:text-[#03fcc6]" />
               </a>
